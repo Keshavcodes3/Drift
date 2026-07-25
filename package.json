@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@types/http-status-codes": "^1.2.0",
-    "http-status-codes": "^2.3.0"
-  }
-}
